@@ -1,0 +1,15 @@
+.about {
+font-style: bold;
+color: blue;
+background: gray;
+}
+
+.post1 {
+background: white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: red;
+}
+
+h3 {
+font-size: small;
+}
